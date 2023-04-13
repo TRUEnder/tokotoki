@@ -1,17 +1,17 @@
 # TokoToki
 
-<br>
+<br/>
 <p align="center">
   <img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOTjGAZBiM9dUmsYcpb1rvDgFWSImKLcnbKAV6Af5Ql5tuDW_5SR1U9O3GcjpsaDlSIl0iJBpAVRrdZLFCMak--7m1qT=s2560" />
 </p>
-<br>
+<br/>
 It was built using plain HTML and the Bootstrap framework for its frontend, and PHP native for its backend. This website was created as a project for Software Development course in our college. TokoToki is a simple e-commerce website for pet products, providing basic e-commerce features such as product catalog, cart, payment, and transaction history.
 
-<br>
-<br>
+<br/>
+<br/>
 
 ## Galery
-<br>
+<br/>
 ![Landing Page](https://lh3.googleusercontent.com/drive-viewer/AAOQEOTbTKJ9vgfvsxTAxaMWujubON2QntJH0pPoTlQKwsxxoyPyEx7enCgVlzsTjtf9biFmRZvaQs2x-XQ-ZqJkA8qLgRoFZg=s1600)
 ![Catalog](https://lh3.googleusercontent.com/drive-viewer/AAOQEORfjndexBVFNEsZa_iTLQaqKM7Ljwu8H7Cfd8uH5xAnGJ1LiN6fT5A2vKKlgjlE71Az0Lwv3uQIka7nG9s3M7UjHobOyw=s1600)
 ![Product Detail](https://lh3.googleusercontent.com/drive-viewer/AAOQEOSyveFRvxI26ktotS3VNeKqq76YvPbLvcPUvz3FWuGQydCL_lZTLGk3Mw1VN3_kuVrYOE6u8xaASxwTQBJML3pdDutPbA=s1600)
