@@ -13,6 +13,11 @@ It was built using plain HTML and the Bootstrap framework for its frontend, and 
 ## Galery
 <br/>
 <img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOTbTKJ9vgfvsxTAxaMWujubON2QntJH0pPoTlQKwsxxoyPyEx7enCgVlzsTjtf9biFmRZvaQs2x-XQ-ZqJkA8qLgRoFZg=s1600"/>
+<img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSYClLzXu1uDdlgqwklZpUHKCdBR7FrnfQIHGtB4buXb5a_BD-gbmXovAjU5WubCLgN4fOOMlkUr948ScncSq56cyW1vw=s1600"/>
+<img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOSc0wCwc9K6H0Ur2Uzj3bc0d4E0Ku6G3L5goU1g1-xPTNRc2GwTXLAO8PIUQ2l2yshNpFjLZPQXVZvFHCz9j1GtOEC8Lg=s1600"/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
 ![Catalog](https://lh3.googleusercontent.com/drive-viewer/AAOQEORfjndexBVFNEsZa_iTLQaqKM7Ljwu8H7Cfd8uH5xAnGJ1LiN6fT5A2vKKlgjlE71Az0Lwv3uQIka7nG9s3M7UjHobOyw=s1600)
 ![Product Detail](https://lh3.googleusercontent.com/drive-viewer/AAOQEOSyveFRvxI26ktotS3VNeKqq76YvPbLvcPUvz3FWuGQydCL_lZTLGk3Mw1VN3_kuVrYOE6u8xaASxwTQBJML3pdDutPbA=s1600)
 ![Cart](https://lh3.googleusercontent.com/drive-viewer/AAOQEOTlzNxwB-1OiQ-cZnYgxjV71PxxaIWodLHEArXnwyjjU7xG2DmiZkpH-SPixZv09bROJc4_-dLk3Xv-RW5og-pRlqr-3g=s1600)
