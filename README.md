@@ -5,7 +5,7 @@
   <img src="https://lh3.googleusercontent.com/drive-viewer/AAOQEOTjGAZBiM9dUmsYcpb1rvDgFWSImKLcnbKAV6Af5Ql5tuDW_5SR1U9O3GcjpsaDlSIl0iJBpAVRrdZLFCMak--7m1qT=s2560" />
 </p>
 <br/>
-It was built using plain HTML and the Bootstrap framework for its frontend, and PHP native for its backend. This website was created as a project for Software Development course in our college. TokoToki is a simple e-commerce website for pet products, providing basic e-commerce features such as product catalog, cart, payment, and transaction history.
+ TokoToki is a simple e-commerce website for pet products, providing basic e-commerce features such as product catalog, cart, payment, and transaction history. It was built using plain HTML and the Bootstrap framework for its frontend, and PHP native for its backend. This website was created as a group project for Software Development course in our college.
 
 <br/>
 <br/>
