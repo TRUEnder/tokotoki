@@ -1,0 +1,164 @@
+@import "https://fonts.googleapis.com/css?family=Nunito";
+
+body {
+    font-family: 'Nunito';
+    background-color: #C4C4C4;
+}
+
+.bg-dark {
+    background-color: #2E2E2E;
+    color: #E3E3E3
+}
+
+.search-input {
+    border-radius: 50px !important;
+    padding-left: 25px !important;
+}
+
+.search-button {
+    margin-left: -50px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-button span {
+    font-size: 25px;
+    color: #2E2E2E;
+}
+
+.nav-button {
+    background-color: #FEBE36;
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    color: #E3E3E3;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.nav-button span {
+    font-size: 35px;
+    color: #2E2E2E;
+}
+
+.nav-item .dropdown-menu {
+    background-color: #2E2E2E !important;
+    padding: 10px 10px 30px 10px !important;
+    border-radius: 0 0 25px 0 !important;
+}
+
+.nav-item .dropdown-menu.show {
+    left: -13px !important;
+    top: 50px !important;
+}
+
+.nav-item .dropdown-menu li {
+    background-color: #FEBE36;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.nav-item .dropdown-menu li :hover {
+    background-color: #E3E3E3;
+    border-radius: 20px;
+}
+
+.nav-item .dropdown-menu li img :hover {
+    border-radius: 28px;
+}
+
+/*  */
+
+.main-container {
+    background-color: #C4C4C4;
+}
+
+.container {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding-top: 40px;
+    min-height: 422px;
+}
+
+.head {
+    width: auto;
+    height: 35px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+
+.box {
+    background-color: #E3E3E3;
+    width: 85%;
+    padding: 30px 60px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 20px -5px, rgba(0, 0, 0, 0.04) 0px 10px 5px -5px;
+}
+
+.code {
+    font-size: 28px;
+    color: #CB3525;
+    margin-bottom: 40px;
+}
+
+.circle {
+    width: 130px;
+    height: 130px;
+    border: 8px solid #FEBE36;
+    border-radius: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-checked {
+    background-color: #FEBE36;
+    width: 130px;
+    height: 130px;
+    border: 8px solid #FEBE36;
+    border-radius: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    width: 120px;
+    height: 8px;
+    background-color: #FEBE36;
+}
+
+.stages {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.stage {
+    margin: 0 55px 15px;
+}
+
+.stage-name {
+    font-weight: 700;
+    text-align: center;
+}
+
+.stage-date {
+    text-align: center;
+}
+
+.footer {
+    background-color: #2E2E2E;
+    color: #E3E3E3;
+    margin-top: 65px;
+    padding: 20px;
+}
